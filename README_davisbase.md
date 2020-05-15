@@ -11,7 +11,7 @@ Lohith Aswathappa(lxa170009)
 
 ###  Steps for terminal:
 1) Extract the file and find the GroupGold.jar file in davisbase\davisbase\GroupGold.jar
-2) Open cmd prompt and run the jar file using java -jar DbGroupK.jar
+2) Open cmd prompt and run the jar file using java -jar GroupGold.jar
 
 * through IDE:
 1)Please run DavisBasePrompt.java(src folder-default package).
