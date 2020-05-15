@@ -10,7 +10,7 @@ Kiran Noolvi (kxn180017)
 Lohith Aswathappa(lxa170009)
 
 ###  Steps for terminal:
-1) Extract the file and find the DbGroupK.jar file in davisbase\davisbase\DbGroupK.jar
+1) Extract the file and find the GroupGold.jar file in davisbase\davisbase\GroupGold.jar
 2) Open cmd prompt and run the jar file using java -jar DbGroupK.jar
 
 * through IDE:
